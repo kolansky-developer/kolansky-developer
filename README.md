@@ -5,8 +5,8 @@
 
 <div>
   <a href="https://github.com/kolansky-developer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kolansky-developer&show_icons=true&theme=dracula&iclude_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kolansky-developer&layout=compact&langs_count=16&theme=dracula">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kolansky-developer&show_icons=true&theme=tokyonight&iclude_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kolansky-developer&layout=compact&langs_count=16&theme=tokyonight">
 </div>
 
 <div style="display: inline-block;"><br>
